@@ -45,7 +45,7 @@ class Data:
 ♦️ Comandos Alternativos ♦️
 /channels - Lista de canais que você adicionou
 /add - Adicionar ao canal
-/report - Reportar o Problema, chama-se no pv e sobre o assunto senão leva spam! @The_Panda_Official
+/report - Reportar o Problema, chama-se no pv e sobre o assunto, garanto que resolverei o problema ou alguma explicação justa sobre! @The_Panda_Official
     """
 
     # About Message
