@@ -10,7 +10,7 @@ class Data:
 
 🎖️ Aproveite o uso do bot, e lembre-se caso remover o bot em algum canal, aperte na opção de remover!
 
-💁🏻‍♂️ Entre no canal de notícias, para atualizações do bot, e avisos sobre ele: → Aperta em criador!
+💁🏻‍♂️ Entre no canal de bots, para atualizações do bot, e avisos sobre ele e outros bots feitos por mim: → Aperta em canal, abaixo!
 
 ♦️
     """
